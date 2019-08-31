@@ -55,4 +55,4 @@ AMP story is a full-screen visual storytelling experience that conveys informati
 
 ## Resources
 1. [AMP Story Docs](https://amp.dev/documentation/guides-and-tutorials/)
-1. [Google Developers Code Labs](codelabs.developers.google.com/codelabs)
+1. [Google Developers Code Labs](https://codelabs.developers.google.com/codelabs)

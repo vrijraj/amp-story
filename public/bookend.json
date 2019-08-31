@@ -1,0 +1,48 @@
+{
+    "bookendVersion": "v1.0",
+    "shareProviders": [
+        "facebook",
+        "twitter",
+        "email"
+    ],
+    "components":[
+        {
+            "type": "heading",
+            "text": "More to read"
+        },
+        {
+            "type": "small",
+            "title": "Google Developers Group",
+            "url": "https://developers.google.com/community/gdg",
+            "image": "https://lh3.googleusercontent.com/63H39JTCPDSexJu5o4qHD5RicnzKnX_PpRVtw9IimpdqFSAR-YXN0se2gwt3keLidPi9RXTvCWlpgKnqthfE3QY6mFt9Cbve=s1352"
+        },
+        {
+            "type": "small",
+            "title": "WomenTechmakers",
+            "url": "https://womentechmakers.com",
+            "image": "https://www.womentechmakers.com/static/images/about/wtm-initiatives-3.jpg"
+        },
+        {
+            "type": "small",
+            "title": "Goolge Developers Expert",
+            "url": "https://developers.google.com/community/experts/",
+            "image": "https://lh3.googleusercontent.com/yU0GRnE5opng-_uCrAKfeGnRYOzk-MLbr8HFj6rxODkFvtXfPxDmiA9aDFfKhxL3MjMAINnd9Y6tHPRdDEM49OlUOaxCe34=s1352"
+        },
+        {
+            "type": "small",
+            "title": "Developer Students Clubs(DSCs)",
+            "url": "https://developers.google.com/community/dsc/",
+            "image": "https://lh3.googleusercontent.com/x0YEDUsvOKkqE9yZpqLnIWWt9toV8WeKNVgrRyNFBDR3X_KOI1uv-ObPrglIigfzAlBlPYEvWji2nVNVR6uHNoMmc9DWDw0=s1352",
+            "category": "Dogs"
+        },
+        {
+            "type": "cta-link",
+            "links": [
+              {
+                "text": "Learn more",
+                "url": "https://developers.google.com/community/"
+              }
+            ]
+        }           
+    ]
+}
